@@ -1,2 +1,2 @@
 # HappyHippo
-An epidemiologic bot, curious and lovely.
+An epidemiological bot, curious and lovely.
